@@ -14,6 +14,9 @@ rebar3 shell
 ```
 To quit the app type in `q().`
 
+## Example image
+![Image of Yaktocat](./client-example.jpg)
+
 ## Commands
 **Note**: *Don't forget to start the server before using the commands in the chat window.*
 - `/connect` - Connect to the server.
